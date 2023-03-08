@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="print - desktop version" src="./assets/print-page.png" width="100%">
+  <img alt="print - desktop version" src="./img/print-page.png" width="100%">
 </p>
 
 
