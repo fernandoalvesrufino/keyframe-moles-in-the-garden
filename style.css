@@ -11,6 +11,7 @@
 body {
   background: url("./img/garden.png");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 .garden {
@@ -24,10 +25,11 @@ body {
   margin: 0 auto;
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: repeat(3, 1fr);
-  padding-top: 20rem;
+  padding-top: 50rem;
 }
 
 .hole {
+  margin: 0 auto;
   width: 18rem;
   height: 12rem;
   background-image: url('./img/default.png');
@@ -67,4 +69,64 @@ body {
   64% { background-image: url('./img/disappearing1.png'); }
   80% { background-image: url('./img/disappearing2.png'); }
   100% { background-image: url('./img/default.png'); }
+}
+
+@media screen and (max-width: 1600px) {
+  .holes {
+    padding-top: 40rem;
+  }
+}
+
+@media screen and (max-width: 1480px) {
+  .holes {
+    padding-top: 23rem;
+  }
+}
+
+@media screen and (max-width: 1040px) {
+  .holes {
+    padding-top: 20rem;
+  }
+}
+
+@media screen and (max-width: 960px) {
+  .holes {
+    padding-top: 18rem;
+  }
+  
+  .hole {
+    width: 16rem;
+    height: 10rem;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .holes {
+    padding-top: 15rem;
+  }
+  
+  .hole {
+    width: 13rem;
+    height: 7rem;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-size: auto;
+    background-repeat: no-repeat;
+  }
+  
+  .holes {
+    padding-top: 25rem;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+  }
+  
+  .hole {
+    width: 15rem;
+    height: 9rem;
+  }
 }
