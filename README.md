@@ -23,7 +23,6 @@
 ## Technologies 
 - HTML
 - CSS
-- JavaScript
 - Git
 - GitHub
 - Figma
