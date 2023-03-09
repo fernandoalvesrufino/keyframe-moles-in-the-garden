@@ -3,13 +3,13 @@
 
 </p>
 
-<br><br>
 
-<p align="center">
-  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-Projects">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-License">License</a>
-</p>
+
+> [1. Technologies](#technologies)
+
+> [2. Project](#project)
+
+> [3. License](#license)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -37,7 +37,7 @@ Applied responsiveness concepts
 
 
  
-## :memo: License
+## License
 
 This project is licensed under the MIT license.
 
