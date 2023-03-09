@@ -33,7 +33,7 @@ In this challenge, animations were created using CSS keyframes to make the moles
 
 Applied responsiveness concepts
 
-- Para acessar ao projeto finalizado, [clique aqui](https://fernandoalvesrufino.github.io/keyframe-moles-in-the-garden/).
+- To access the finished project, [click here](https://fernandoalvesrufino.github.io/keyframe-moles-in-the-garden/).
 
 
  
