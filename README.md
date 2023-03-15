@@ -5,11 +5,11 @@
 
 
 
-> [1. Technologies](#technologies)
+> [Technologies](#technologies)
 
-> [2. Project](#project)
+> [Project](#project)
 
-> [3. License](#license)
+> [License](#license)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
@@ -23,8 +23,7 @@
 ## Technologies 
 - HTML
 - CSS
-- Git
-- GitHub
+- Git and GitHub
 - Figma
 
 ## Project
